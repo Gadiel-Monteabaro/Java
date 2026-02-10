@@ -9,7 +9,7 @@ public class Variables {
         // constantes
         final String EMAIL = "gadiel@gmail.com";
 
-        // declaración varF
+        // declaración var
         var email = 2;
 
         System.out.println("IA: Hola " + name + ", Aprendiendo Java?");
