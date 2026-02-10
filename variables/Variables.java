@@ -11,6 +11,7 @@ public class Variables {
 
         // declaración var
         var email = 2;
+        System.out.println(email);
 
         System.out.println("IA: Hola " + name + ", Aprendiendo Java?");
         System.out.println(name + ": Si, empezando Java con " + age + " años.");
