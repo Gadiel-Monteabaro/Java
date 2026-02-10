@@ -16,5 +16,6 @@ public class Variables {
         System.out.println(name + ": Si, empezando Java con " + age + " años.");
         System.out.println("IA: Perfecto! veo que no tenes registrado tu email, te gustaria hacerlo?");
         System.out.println(name + ": si, mi email es: " + EMAIL);
+
     }
 }
