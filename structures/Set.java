@@ -6,7 +6,6 @@ public class Set {
     public static void main(String[] args) {
 
         HashSet<String> names = new HashSet<String>();
-        var numbers = new HashSet<Integer>();
 
         // Tamaño
         System.out.println(names.size());
