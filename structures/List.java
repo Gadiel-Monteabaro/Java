@@ -21,6 +21,7 @@ public class List {
         System.out.println(names.size());
 
         // Acceder a los elementos
+        System.out.println(names);
         System.out.println(names.getFirst());
         System.out.println(names.getLast());
         System.out.println(names.get(1));
